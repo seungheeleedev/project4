@@ -6,8 +6,14 @@
 
 ### 1
 
-####  Test ()
+#### Button Test (1_Button)
+SW1을 눌렀을 때 LED_R ON
 
+SW2을 눌렀을 때 LED_R OFF
+
+SW3을 눌렀을 때 LED_W ON
+
+SW4을 눌렀을 때 LED_W OFF
 
 ```
 
