@@ -6,14 +6,16 @@
 
 ### 1
 
-#### Button Test (1_Button)
-SW1을 눌렀을 때 LED_R ON
 
-SW2을 눌렀을 때 LED_R OFF
+#### Servo motor Test (1_Servo_motor) 
+Servo 모터가 90도로 회전 -> 0도로 회전
 
-SW3을 눌렀을 때 LED_W ON
+```
 
-SW4을 눌렀을 때 LED_W OFF
+```
+
+#### DC motor Test (1_DC_motor)
+DC 모터가 2초동안 회전 -> 2초동안 정지
 
 ```
 
