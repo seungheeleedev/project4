@@ -21,6 +21,13 @@ DC 모터가 2초동안 회전 -> 2초동안 정지
 
 ```
 
+#### CLCD Test (1_CLCD)
+CLCD 1줄에 HELLO 출력 & 2줄에 Smart Window 출력
+
+```
+
+```
+
 <br/>
 
 <br/>
