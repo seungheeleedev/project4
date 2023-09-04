@@ -38,7 +38,7 @@ SW4을 눌렀을 때 LED_W OFF
 
 ```
 
-####  Test ()
+####  Bluetooth Test ()
 
 
 ```
